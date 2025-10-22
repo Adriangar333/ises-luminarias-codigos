@@ -1,5 +1,0 @@
-
-{
-  "name": "Extractor de Códigos de Luminarias",
-  "description": "Una herramienta para extraer números de serie de imágenes de luminarias urbanas de forma masiva utilizando IA. Cargue imágenes y descargue las imágenes renombradas con el código extraído."
-}
